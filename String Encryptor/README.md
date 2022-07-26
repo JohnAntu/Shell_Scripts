@@ -1,1 +1,1 @@
-![ScreenShot](String Encryptor/ScreenShot/ScreenShot.png)
+![ScreenShot](/String Encryptor/ScreenShot/ScreenShot.png)
